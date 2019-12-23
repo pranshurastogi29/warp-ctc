@@ -13,7 +13,7 @@ Install [PyTorch](https://github.com/pytorch/pytorch#installation) v0.4.
 new warp-ctc clone you could build WarpCTC like this:
 
 ```bash
-git clone https://github.com/SeanNaren/warp-ctc.git
+git clone https://github.com/pranshurastogi29/warp-ctc.git
 cd warp-ctc
 mkdir build; cd build
 cmake ..
